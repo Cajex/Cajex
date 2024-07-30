@@ -1,5 +1,5 @@
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=generixdns&label=Profile%20views&color=0e75b6&style=plastic" alt="HarmanTBK views" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=cajex&label=Profile%20views&color=0e75b6&style=plastic" alt="Cajex views" />
 <div align="center">
   <div align="center" style="padding: 20px">
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="C++" width="45px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
@@ -17,7 +17,7 @@
 
 <div align="center" style="padding: 20px">
   <a href="https://github.com/generixdns">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=generixdns&layout=compact&langs_count=7&theme=dracula" alt="statics"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cajex&layout=compact&langs_count=7&theme=dracula" alt="statics"/>
 </div>
   
  <br>

@@ -24,11 +24,11 @@
  <br>
 
 ```c++
-class NurAlex : public Person {
+class Cajex : public Person {
+  ...
 public:
-    explicit NurAlex() {
-        this->m_name = "NurAlex";
-        this->m_languages = new char*[]{"C", "C++", "Java", "Rust", "Kotlin", "Qml"};
+    NurAlex() : m_name("Cajex"), m_lang(new char*[]{"C", "C++", "Java", "Rust", "Kotlin"}) {
+      ...
     }
 };
 }
